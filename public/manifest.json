@@ -1,0 +1,9 @@
+{
+  "short_name": "RecipeFinder",
+  "name": "RecipeFinder — Find Your Perfect Recipe",
+  "icons": [],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#F97B23",
+  "background_color": "#FBF7F0"
+}
